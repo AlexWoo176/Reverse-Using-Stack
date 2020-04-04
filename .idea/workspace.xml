@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be5292f8-dd43-43e3-8336-d099b3be4a9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3nCDUofNc1vzQM94C3hBJYT40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.MainStack">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reversestring.Main" />
+      <module name="Reverse-Using-Stack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseint.MainStack" />
+      <module name="Reverse-Using-Stack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reversechar.MyStackTest" />
+      <module name="Reverse-Using-Stack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainStack" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyStackTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be5292f8-dd43-43e3-8336-d099b3be4a9c" name="Default Changelist" comment="" />
+      <created>1585973014808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585973014808</updated>
+      <workItem from="1585973016088" duration="4839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="111" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1585976557968">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state x="608" y="111" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1600.796@0.27.1600.796" timestamp="1585976557968" />
+    <state width="1554" height="357" key="GridCell.Tab.0.bottom" timestamp="1585977999004">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="357" key="GridCell.Tab.0.bottom/0.27.1600.796@0.27.1600.796" timestamp="1585977999004" />
+    <state width="1554" height="357" key="GridCell.Tab.0.center" timestamp="1585977998999">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="357" key="GridCell.Tab.0.center/0.27.1600.796@0.27.1600.796" timestamp="1585977998999" />
+    <state width="1554" height="357" key="GridCell.Tab.0.left" timestamp="1585977998996">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="357" key="GridCell.Tab.0.left/0.27.1600.796@0.27.1600.796" timestamp="1585977998996" />
+    <state width="1554" height="357" key="GridCell.Tab.0.right" timestamp="1585977999002">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="357" key="GridCell.Tab.0.right/0.27.1600.796@0.27.1600.796" timestamp="1585977999002" />
+  </component>
+</project>
